@@ -1,0 +1,2 @@
+Hello and welcome! 
+Please search for the image that you think fits your mood today and then delete it from the repo. 
